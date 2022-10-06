@@ -1,0 +1,34 @@
+[
+  {
+    "fullname": "Jennie Kim",
+    "birthplace": { "city": "Seoul", "country": "South Korea" },
+    "birthdate": { "day": "16", "month": "January", "year": "1996" },
+    "gender": "Female",
+    "occupation": ["Main Rapper", "Vocalist"],
+    "socialmedia": { "instagram": "@jennierubyjane" }
+  },
+  {
+    "fullname": ["Pranpriya Manoban", "Lalisa Manoban"],
+    "birthplace": { "city": "Buriram", "country": "Thailand" },
+    "birthdate": { "day": "27", "month": "March", "year": "1997" },
+    "gender": "Female",
+    "occupation": ["Main Dancer", "Rapper"],
+    "socialmedia": { "instagram": "@lalalalisa_m", "youtube": "Lilifilm Official" }
+  },
+  {
+    "fullname": ["Park Chae Young", "Roseanne Park"],
+    "birthplace": { "city": "Auckland", "country": "New Zealand" },
+    "birthdate": { "day": "11", "month": "February", "year": "1997" },
+    "gender": "Female",
+    "occupation": ["Main Vocalist", "Dancer"],
+    "socialmedia": { "instagram": "@roses_are_rosie" }
+  },
+  {
+    "fullname": "Kim Ji Soo",
+    "birthplace": { "city": "Gunpo", "country": "South Korea" },
+    "birthdate": { "day": "3", "month": "January", "year": "1995" },
+    "gender": "Female",
+    "occupation": ["Main Visual", "Vocalist"],
+    "socialmedia": { "instagram": "sooyaaa__" }
+  }
+]

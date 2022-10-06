@@ -1,0 +1,197 @@
+{
+  "members": [
+    {
+      "fullname": "Jennie Kim",
+      "birthplace": { "city": "Seoul", "country": "South Korea" },
+      "birthdate": { "day": "16", "month": "January", "year": "1996" },
+      "gender": "Female",
+      "occupation": ["Main Rapper", "Vocalist"],
+      "socialmedia": { "instagram": "@jennierubyjane" }
+    },
+    {
+      "fullname": ["Pranpriya Manoban", "Lalisa Manoban"],
+      "birthplace": { "city": "Buriram", "country": "Thailand" },
+      "birthdate": { "day": "27", "month": "March", "year": "1997" },
+      "gender": "Female",
+      "occupation": ["Main Dancer", "Rapper"],
+      "socialmedia": { "instagram": "@lalalalisa_m", "youtube": "Lilifilm Official" }
+    },
+    {
+      "fullname": ["Park Chae Young", "Roseanne Park"],
+      "birthplace": { "city": "Auckland", "country": "New Zealand" },
+      "birthdate": { "day": "11", "month": "February", "year": "1997" },
+      "gender": "Female",
+      "occupation": ["Main Vocalist", "Dancer"],
+      "socialmedia": { "instagram": "@roses_are_rosie" }
+    },
+    {
+      "fullname": "Kim Ji Soo",
+      "birthplace": { "city": "Gunpo", "country": "South Korea" },
+      "birthdate": { "day": "3", "month": "January", "year": "1995" },
+      "gender": "Female",
+      "occupation": ["Main Visual", "Vocalist"],
+      "socialmedia": { "instagram": "sooyaaa__" }
+    }
+  ],
+
+  "discography": [
+    [
+      {
+        "name": "How You Like That?",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["Electronic Dance Music"]
+      },
+      {
+        "name": "DDU-DU DDU-DU",
+        "releaseyear": "2018",
+        "collaborator": "N/A",
+        "genres": ["KPop", "Pop"]
+      },
+      {
+        "name": "Kill This Love",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop", "Electro Pop"]
+      },
+      {
+        "name": "Pretty Savage",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["Electronic Dance Music", "Trap Music"]
+      },
+      {
+        "name": "Ice Cream",
+        "releaseyear": "2020",
+        "collaborator": "Selena Gomez",
+        "genres": ["Electronic Dance Music"]
+      },
+      {
+        "name": "As It's Your Last",
+        "releaseyear": "2017",
+        "collaborator": "N/A",
+        "genres": ["KPop", "Pop"]
+      },
+      {
+        "name": "Lovesick Girls",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["KPop", "Electronic Dance Music"]
+      },
+      {
+        "name": "Whistle",
+        "releaseyear": "2016",
+        "collaborator": "N/A",
+        "genres": ["KPop", "Electronic Dance Music"]
+      },
+      {
+        "name": "BOOMBAYAH",
+        "releaseyear": "2016",
+        "collaborator": "N/A",
+        "genres": ["Electronic Dance Music"]
+      },
+      {
+        "name": "Love to Hate Me",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["Electronic Dance Music"]
+      },
+      {
+        "name": "Playing with Fire",
+        "releaseyear": "2016",
+        "collaborator": "N/A",
+        "genres": ["HipHop/Rap", "Pop", "KPop"]
+      },
+      {
+        "name": "Kiss and Make Up",
+        "releaseyear": "2018",
+        "collaborator": "Dua Lipa",
+        "genres": ["Pop"]
+      },
+      {
+        "name": "Don't Know What to Do",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Forever Young",
+        "releaseyear": "2018",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Crazy Over You",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["Electro Dance Music"]
+      },
+      {
+        "name": "You Never Know",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["Electro Dance Music", "Ballad"]
+      },
+      {
+        "name": "Don't Know What to Do",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Stay",
+        "releaseyear": "2016",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Bet You Wanna",
+        "releaseyear": "2020",
+        "collaborator": "Cardi B.",
+        "genres": ["Electro Dance Music"]
+      },
+      {
+        "name": "See You Later",
+        "releaseyear": "2018",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Sour Candy",
+        "releaseyear": "2020",
+        "collaborator": "Lady Gaga",
+        "genres": ["Pop"]
+      },
+      {
+        "name": "Hope Not",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Kick It",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Really",
+        "releaseyear": "2018",
+        "collaborator": "Lady Gaga",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "So Hot",
+        "releaseyear": "2019",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      },
+      {
+        "name": "Ready For Love",
+        "releaseyear": "2020",
+        "collaborator": "N/A",
+        "genres": ["KPop"]
+      }
+    ]
+  ]
+}
